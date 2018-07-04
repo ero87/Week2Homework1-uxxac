@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Week2homework1</string>
+    <string name="title_activity_adgdfg">Adgdfg</string>
+    <string name="title_activity_menyu_">Menyu_Activity</string>
+    <string name="titlec">titlec</string>
+    <string name="text">text</string>
+    <string name="kaloria">Kaloria</string>
+    <string name="menuTxt">Вы когда-нибудь задавались вопросом, чем накормить детей на празднике? Скажем, на дне рождении...</string>
+    <string name="menuTitle">Детская пицца</string>
+    <string name="menuKaloria">пицца</string>
+    <string name="menu1Text">Тесто разделите на кусочки, сформируйте из них шарики и раскатайте каждый в тонкую лепешку...</string>
+    <string name="menu1Title">Ламаджо, армянская пицца</string>
+    <string name="menu1Kaloria">ИНГРЕДИЕНТЫ</string>
+    <string name="menuImageUrl">https://recipes.timesofindia.com/photo/53110049.cms</string>
+    <string name="menuInfoUrl">https://vkusno-i-prosto.ru/receipt/detskaya-picca/</string>
+    <string name="menu1ImageUrl">https://food.buy.am/uploads/zoom/2018/05/Lahmajo%20Lebanon.jpg</string>
+    <string name="menu1InfoUrl">http://healthmenu.ru/recipe/lamadzho/</string>
+    <string name="menu2Text">Вкуснейшие в Кемерово шашлыки, сочные нежные ароматные из свиной шейки, из барашка или теляти...</string>
+    <string name="menu2Title">ШАШЛЫК !!!</string>
+    <string name="menu2Kaloria">ДОСТАВКА</string>
+    <string name="menu2ImageUrl">http://i.630-717.ru/u/11/ac418ccbf311e592bbfeae14ba3547/-/image.jpg</string>
+    <string name="menu2InfoUrl">http://630-717.ru/shashlykov-dostavka-kemerovo</string>
+    <string name="menu3Text">Способ приготовления теста: Молоко разбавить тёплой водой. Взять 100 г получившейся смеси ...</string>
+    <string name="menu3Title">Хачапури</string>
+    <string name="menu3Kaloria">МАТЕРИАЛЫ</string>
+    <string name="menu3ImageUrl">https://i.pinimg.com/originals/a3/76/93/a37693c78c14cf455eb5edcebca92faa.jpg</string>
+    <string name="menu3InfoUrl">https://www.gastronom.ru/recipe/39941/hachapuri-po-imeretinski</string>
+    <string name="menu4Text">Каждая хозяйка, обладая минимальным набором продуктов и 20 минутами времени, сможет....</string>
+    <string name="menu4Title">Шаурма</string>
+    <string name="menu4Kaloria">Быстрый</string>
+    <string name="menu4ImageUrl">http://cfs.4geo.ru/get/market/product/img-1142013291_17556095611106508.jpeg</string>
+    <string name="menu4InfoUrl">https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%83%D1%80%D0%BC%D0%B0</string>
+</resources>
